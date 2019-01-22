@@ -28,4 +28,5 @@ https://code.markedmondson.me/googleAnalyticsR/articles/v4.html
 Algunos tutoriales para hacer cosas piolas: 
 https://code.markedmondson.me/googleAnalyticsR/#tutorials
 
+Mala noticia, falló este link de Homero yendose
 <iframe src="https://giphy.com/embed/jUwpNzg9IcyrK" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/the-simpsons-scared-homer-simpson-jUwpNzg9IcyrK">via GIPHY</a></p>
